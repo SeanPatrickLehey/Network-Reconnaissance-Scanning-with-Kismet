@@ -137,7 +137,7 @@ While the associated devices option won't share the exact make and model, you ca
 
 ## Part 3: Conclusion and Final Thoughts
 
-Kismet's utility should not be understated. Along with the use cases mentioned above, there are countless more scenarios where a tool like this would come in handy. I'm currently working on a project that uses data gathered from Kismet to create a *known wireless environment* database for any assigned local area (depending on signal strength of wireless adapter), which conducts scans on a daily basis and assigns a device familiarity rating based on frequency of scan detections. This could be used as a reference and monitoring tool for secured sites where unknown devices could potentially arouse concern.
+Kismet's utility should not be understated. Along with its traditional application as a wardriving tool, Kismet can be used to create a physical IDS, or instrusion detection system, for secured facilities such as banks or manufacturing sites. Security practitioners often use Kismet in conjunction with https://wigle.net to provide wireless network mapping data derived from their scans. <sup>[1]</sup>
 
 Finally, I want to reiterate that ethics should always be your foremost priority when using network tools like Kismet. Do not seek unauthorized network or device access, and limit your scope of practice to your own network and devices at all times.
 
