@@ -142,4 +142,4 @@ Kismet's utility should not be understated. Along with the use cases mentioned a
 Finally, I want to reiterate that ethics should always be your foremost priority when using network tools like Kismet. Do not seek unauthorized network or device access, and limit your scope of practice to your own network and devices at all times.
 
 [Jump to top](#network-reconnaissance-scanning-with-kismet)   
-[Return to my profile](https://github.com/seanlehey)
+[Return to my profile](https://github.com/seanpatricklehey)
