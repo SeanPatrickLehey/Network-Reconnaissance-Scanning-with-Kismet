@@ -2,7 +2,9 @@
 An independent, ethics-first learning project by Sean Lehey.
 
 ## **Disclaimer**
-This project is intended to demonstrate my learning process using Kismet. Please note that the scope of this project is simply limited to reconnaissance and identification of nearby SSIDs. No attempt was made to join any networks, circumvent any security measures, or take adverse action on network devices. Ethics are my foremost priority while learning networking tools, so MAC addresses, SSIDs, and other identifying information will be censored to respect the privacy of these networks and devices.
+This project is intended to demonstrate my learning process using Kismet. Please note that the scope of this project is simply limited to reconnaissance and identification of nearby SSIDs. No attempt was made to join any networks, circumvent any security measures, or take adverse action on network devices. Ethics are my foremost priority while learning networking tools, so MAC addresses, SSIDs, and other identifying information have been censored to respect the privacy of these networks and devices.
+
+*This project was originally created in June of 2022.*
 
 ## Table of Contents
 
