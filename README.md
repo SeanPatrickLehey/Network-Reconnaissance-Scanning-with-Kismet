@@ -139,7 +139,7 @@ While the associated devices option won't share the exact make and model, you ca
 
 ## Part 3: Conclusion and Final Thoughts
 
-Kismet's utility should not be understated. Along with its traditional application as a wardriving tool, Kismet can be used to create a physical IDS, or instrusion detection system, for secured facilities such as banks or manufacturing sites. Security practitioners often use Kismet in conjunction with https://wigle.net to provide wireless network mapping data derived from their scans. <sup>[1]</sup>
+Kismet's utility should not be understated. Along with its traditional application as a wardriving tool, Kismet can be used to create a physical IDS, or intrusion detection system, for secured facilities such as banks or manufacturing sites. Security practitioners often use Kismet in conjunction with https://wigle.net to provide wireless network mapping data derived from their scans. <sup>[1]</sup>
 
 Finally, I want to reiterate that ethics should always be your foremost priority when using network tools like Kismet. Do not seek unauthorized network or device access, and limit your scope of practice to your own network and devices at all times.
 
